@@ -1,5 +1,24 @@
 # Ferramentas para ciência aberta
 
+Seminário apresentado nas Palestras Estudantis do
+[Observatório Nacional](http://on.br).
+
+Esse repositório contém um molde para produzir um artigo:
+* diretório `notebook` contém [IPython notebook](http://ipython.org/notebook.html) para fazer a análise dos dados e gerar figuras
+* `dados` contém os dados utilizados na análise
+* `presentation` contém slides de uma apresentação sobre ferramentas para ciência
+* `manuscript.tex` inclui as figuras geradas pelos notebooks
+* `Makefile` compila o `.tex`
+
+A idéia é que cada artigo tenha um repositório
+com tudo necessário para a reprodução dos resultados.
+Esse repositório pode ser citado no artigo final.
+Produtos extras que não são incluídos no artigo
+(slides, poster, figuras, texto, videos, dados)
+podem ser colocados no [figshare](http://www.figshare.com) e citados no artigo.
+
+# Resumo do seminário
+
 O processo científico produz muito mais do que é eventualmente publicado em
 revistas. Fazer pesquisa involve geração de dados, código, análise, figuras,
 pôster/apresetações, etc. No entanto, somente uma fração pequena disso é
@@ -27,7 +46,7 @@ Slides (PDF):
 
 [Notebook com análise no nbviewer](http://nbviewer.ipython.org/urls/raw.github.com/leouieda/ferramentas_ciencia_aberta/master/notebook/analise.ipynb)
 
-**Blogs para seguir:**
+# Blogs para seguir
 
 [Living in an ivory basement](http://ivory.idyll.org/blog/)
 
@@ -45,5 +64,7 @@ Slides (PDF):
 
 
 [![CC-BY](http://i.creativecommons.org/l/by/3.0/88x31.png)](http://creativecommons.org/licenses/by/3.0/deed.en_US)
+
+This work is licensed under a [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/deed.en_US).
 
 
