@@ -42,9 +42,9 @@ serviços e as vantágens e de tornar sua pesquisa mais aberta e reprodutível.
 
 Inspiração: http://youtu.be/7FIjpuwE0BQ
 
-Slides (PDF):
+Slides (PDF): http://dx.doi.org/10.6084/m9.figshare.774537
 
-[Notebook com análise no nbviewer](http://nbviewer.ipython.org/urls/raw.github.com/leouieda/ferramentas_ciencia_aberta/master/notebook/analise.ipynb)
+Notebook com análise no nbviewer: http://nbviewer.ipython.org/urls/raw.github.com/leouieda/ferramentas_ciencia_aberta/master/notebook/analise.ipynb
 
 # Blogs para seguir
 
