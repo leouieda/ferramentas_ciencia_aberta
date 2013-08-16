@@ -25,7 +25,7 @@ Inspiração: http://youtu.be/7FIjpuwE0BQ
 
 Slides (PDF):
 
-Notebook com análise:
+[Notebook com análise no nbviewer](http://nbviewer.ipython.org/urls/raw.github.com/leouieda/ferramentas_ciencia_aberta/master/notebook/analise.ipynb)
 
 **Blogs para seguir:**
 
