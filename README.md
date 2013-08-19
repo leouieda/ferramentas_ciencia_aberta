@@ -21,7 +21,7 @@ podem ser colocados no [figshare](http://www.figshare.com) e citados no artigo.
 
 O processo científico produz muito mais do que é eventualmente publicado em
 revistas. Fazer pesquisa involve geração de dados, código, análise, figuras,
-pôster/apresetações, etc. No entanto, somente uma fração pequena disso é
+pôster/apresentações, etc. No entanto, somente uma fração pequena disso é
 publicada e geralmente exclui resultados considerados "negativos". Isso leva
 uma grande reprodução de trabalho para descobrir o que "não funciona", já que
 esses resultados nunca alcaçam a comunidade científica. Além disso, a
@@ -36,7 +36,7 @@ programação Python, o IPython notebook permite a integração de código, text
 tabelas e figuras em um único documento. A página figshare.com rapidamente se
 tornou o padrão para publicação de dados, figuras, apresentações, material
 suplementar, videos, etc. Nesta apresentação, falarei sobre como utilizar esses
-serviços e as vantágens e de tornar sua pesquisa mais aberta e reprodutível.
+serviços e as vantagens e de tornar sua pesquisa mais aberta e reprodutível.
 
 # Links
 
