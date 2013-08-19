@@ -63,8 +63,10 @@ Notebook com análise no nbviewer: http://nbviewer.ipython.org/urls/raw.github.c
 [it is NOT junk](http://www.michaeleisen.org/blog/)
 
 
-[![CC-BY](http://i.creativecommons.org/l/by/3.0/88x31.png)](http://creativecommons.org/licenses/by/3.0/deed.en_US)
+---
 
+
+[![CC-BY](http://i.creativecommons.org/l/by/3.0/88x31.png)](http://creativecommons.org/licenses/by/3.0/deed.en_US)
 This work is licensed under a [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/deed.en_US).
 
 
